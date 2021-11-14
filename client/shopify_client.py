@@ -14,6 +14,9 @@ class ShopifyClient:
             "Content-Type": 'application/json'
         }
     
+    def another_new_function():
+        ...
+
     def api_request(self, *args, **kwargs):
         self.headers.update({
           "X-Shopify-Access-Token": self.api_password
