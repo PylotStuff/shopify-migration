@@ -22,4 +22,5 @@ for more information:
 
 [Blog Post](https://dev.to/thepylot/migration-of-categories-collections-using-shopify-api-did)
 
-[Check NFT of project](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/100084971061239229975686359349072653396541522931816172810727873837788800483329/)
+## Project NFT
+[NFT of project](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/100084971061239229975686359349072653396541522931816172810727873837788800483329/)
